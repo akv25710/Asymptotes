@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/background_maroon"
+    android:id="@+id/splash_Screen">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rajmahal"
+        android:src="@drawable/rajmahal"
+        android:paddingTop="50dp"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rajmahal"
+        android:id="@+id/qa_info"
+        android:src="@drawable/qainfo"
+        android:paddingTop="70dp"/>
+
+</RelativeLayout>

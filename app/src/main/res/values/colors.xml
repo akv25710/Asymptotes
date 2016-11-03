@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#FF5722</color>
+    <color name="ColorPrimaryDark">#E64A19</color>
+    <item name="pressed_color" type="color">#000000</item>
+    <color name="default_color">#cccc191d</color>
+</resources>

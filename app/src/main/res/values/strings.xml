@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Asymptotes\'16</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_events">Events</string>
+    <string name="title_register">Register</string>
+    <string name="title_contactus">Feedback</string>
+    <string name="title_sponsors">Our Sponsors</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="asymptotes_descp">DEFINING NEW BOUNDARIES with its plentitude of technical events like programming
+    contest, marketing strategies, quizzes and ever widening array of events such as Ken-doko, Life Size Chess.</string>
+
+    <string-array name="titles">
+        <item>MATHIONAIRE</item>
+        <item>WIZARDS OF MARKET PLACE</item>
+        <item>CODE-THON</item>
+        <item>VEDIC MATHS</item>
+        <item>GUIDE THE LIGHT</item>
+        <item>KEN-DUKO</item>
+        <item>KNIGHTS OF THE WOODEN BOARD</item>
+        <item>RELAY MATHS</item>
+        <item>TREASURE HUNT</item>
+        <item>CRYPTOGRAPHY</item>
+        <item>CLOSING CEREMONY</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>The Ultimate Maths Quiz  offers an assorted collection to tease minds and pit wits against the brilliant minds at DTU.</item>
+        <item>This event tests the ability to make a foolproof marketing plan, whilst creating a marketing strategy that will revolutionize the monotony of the Marketplace</item>
+        <item>This battle of coding promises to give all programming nerds an opportunity to develop their best codes in C/C++ and prove your mettle</item>
+        <item>The event would have 3 brainstorming rounds, testing the speed, skill and accuracy of the human brain</item>
+        <item>Travel through a maze of rounds of mazes to reach the destination. Arrange the mirrors and prisms and guide the laser light.</item>
+        <item>Come and Play Sudoku &amp; KEN-KEN puzzles with different timed levels.</item>
+        <item>Ever seen Philospher\'s Stone?? Well, Chess comes to life.</item>
+        <item>Solve an array of math problems in teams as fast as possible to avoid the dreaded Elimination round</item>
+        <item>Find the hidden treasure, if you can.</item>
+        <item>Decode the cipher and find the message.</item>
+        <item>At last, the festival comes to an end with a grand celebration.</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>Feb 19, 2016</item>
+        <item>Feb 19, 2016</item>
+        <item>Feb 20, 2016</item>
+        <item>Feb 20, 2016</item>
+        <item>Feb 19, 2016</item>
+        <item>Feb 20, 2016</item>
+        <item>Feb 19, 2016</item>
+        <item>Feb 20, 2016</item>
+        <item>Feb 19, 2016</item>
+        <item>Feb 21, 2016</item>
+        <item>Feb 21, 2016</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>10 am onwards</item>
+        <item>10 am onwards</item>
+        <item>10 am onwards</item>
+        <item>10 am onwards</item>
+        <item>11 am onwards</item>
+        <item>11 am onwards</item>
+        <item>10 am onwards</item>
+        <item>10 am onwards</item>
+        <item>10 am onwards</item>
+        <item>10 am onwards</item>
+        <item>1 pm onwards</item>
+    </string-array>
+
+    <string-array name="venue">
+        <item>IWFF16 (Science Block)</item>
+        <item>TW4FF2 (Mechanical Block)</item>
+        <item>COMPUTATIONAL LAB II (Science Block)</item>
+        <item>IWFF16 (Science Block)</item>
+        <item>TW4GF2 (Mechanical Block)</item>
+        <item>TW4GF4 (Mechanical Block)</item>
+        <item>AUDI ENTRANCE</item>
+        <item>EDUSAT HALL (Electrical Block)</item>
+        <item>PR DESK</item>
+        <item>TW4GF4 (Mechanical Block)</item>
+        <item>PRESENTATION HALL (Training and Placement Department)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background_maroon"
+    android:alpha = "0.9"
+    android:id="@+id/layout">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:src = "@drawable/dtu_logo_maroon"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="42dp"
+        android:id="@+id/dtu_logo" />
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:src = "@drawable/macs_logo"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="42dp"
+        android:id="@+id/macs_logo" />
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="100dp"
+        android:src = "@drawable/asymptotes_text"
+        android:layout_marginTop="32dp"
+        android:id="@+id/asymptotes_text"
+        android:layout_below="@+id/macs_logo"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/asymptotes_descp"
+        android:id="@+id/textView"
+        android:textColor="#fffafe"
+        android:layout_marginBottom="50dp"
+        android:singleLine="false"
+        android:shadowColor="@android:color/background_light"
+        android:textStyle="bold|italic"
+        android:typeface="serif"
+        android:visibility="visible"
+        android:translationZ="@dimen/abc_text_size_large_material"
+        android:textColorHighlight="@color/accent_material_light"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:elegantTextHeight="true"
+        android:gravity="center"
+        android:fontFamily="@android:string/httpErrorBadUrl" />
+
+    <!--<ImageView-->
+        <!--android:layout_width="300dp"-->
+        <!--android:layout_height="200dp"-->
+        <!--android:src = "@drawable/asymptotes"-->
+        <!--android:id="@+id/asymptotes_logo"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_centerHorizontal="true" />-->
+
+
+</RelativeLayout>
